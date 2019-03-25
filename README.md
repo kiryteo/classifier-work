@@ -1,5 +1,5 @@
 # classifier-work
-## Results of FIRST classifier on the tgss fits files 
+## Results of FIRST classifier on the [Capetti catalog](http://adsabs.harvard.edu/abs/2017A%26A...598A..49C) 
 
 Results obtained from the use of the [FIRST classifier](https://github.com/wathela/FIRST-CLASSIFIER) for the FR1 and FR2 ra dec value catalogs of tgss survey. 
 
